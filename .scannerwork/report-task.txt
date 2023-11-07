@@ -1,0 +1,7 @@
+organization=sajjad562
+projectKey=KovairDemoProject
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8683
+dashboardUrl=https://sonarcloud.io/dashboard?id=KovairDemoProject
+ceTaskId=AXLGBokzwDaWFrZOt1_n
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLGBokzwDaWFrZOt1_n
